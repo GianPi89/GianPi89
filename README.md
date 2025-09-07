@@ -1,5 +1,5 @@
 # 💫  SOBRE MI:
-Soy un Desarrollador de Software de 21 años de edad, con conocimientos previos del desarrollo web, el testing de software, APP moviles y todo lo que tenga que ver con construir soluciones funcionales que aporten valor real.<br>Tengo conocimientos en programación con JavaScript, Java y C#, manejo base de datos no relacionales como Firebase Firestore y Mongo DB, y relacionales como SQL Server y MySQL.  Me gusta usar tecnologías como React, Node.js, ASP.NET y herramientas de Gestión de Proyectos como Jira y Confluence.
+Soy un Desarrollador de Software con conocimientos previos del desarrollo web, el testing de software, APP moviles y todo lo que tenga que ver con construir soluciones funcionales que aporten valor real.<br>Tengo conocimientos en programación con JavaScript, Java y C#, manejo base de datos no relacionales como Firebase Firestore y Mongo DB, y relacionales como SQL Server y MySQL.  Me gusta usar tecnologías como React, Node.js, ASP.NET y herramientas de Gestión de Proyectos como Jira y Confluence.
 
 
 # 💻 Pila tecnológica:
